@@ -11,5 +11,8 @@
     "url": "enalotto, random number, gianmarco m"
   },
   "author": "Gianmarco Marucelli",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.11.12"
+  }
 }
